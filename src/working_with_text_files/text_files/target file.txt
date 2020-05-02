@@ -1,0 +1,21 @@
+{
+first line is too short
+second line is too long
+third line is just right
+}{
+first line is too short
+second line is too long
+third line is just right
+}{
+first line is too short
+second line is too long
+third line is just right
+}{
+first line is too short
+second line is too long
+third line is just right
+}{
+first line is too short
+second line is too long
+third line is just right
+}
